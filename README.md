@@ -24,5 +24,5 @@ So, HTML is language thats uses tags to tell the browser to structure certain el
 
 
 
-Contributers
-@ sos10e @ benbyi21
+Contributors
+@sos10e @benbyi21
