@@ -19,10 +19,4 @@ You can create webpages  with HTML too :relaxed:
 </body>
 </html>
 ```
-
-
-
-
-
-Contributors
-@sos10e @benbyi21
+- [x] supported by @sos10e, @benbyi21
