@@ -3,10 +3,10 @@
 ```
 HTML: Stand for Hypertext markup language
 ```
-It is markup language that we use to communicate with browser the kind of element to display. 
+It is markup language that we use to communicate with browser the kind of element to display. \n \n
+**Markup language** is a language that uses tags aka angle brackect <> to describe element. \n
+**So :exclamation:**, HTML is language thats uses tags to tell the browser to structure certain elements.
 You can create webpages  with HTML too :relaxed:
-**Markup language** is a language that uses tags aka angle brackect <> to describe element.
-So, HTML is language thats uses tags to tell the browser to structure certain elements. 
 ```HTML
 <!DOCTYPE html>
 <html>
