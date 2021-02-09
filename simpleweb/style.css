@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+* {
+  margin: 0px;
+}
+#home {
+  background: #000 url(../image.jpg) no-repeat center/cover fixed;
+  height: 100vh;
+}
+#text {
+  text-align: center;
+  color: white;
+  height: 100%;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+#text h1 {
+  padding: 250px 0px;
+}
+section.text-center {
+  padding: 50px;
+  text-align: center;
+}
+#container {
+  width: 100%;
+}
+.half-paragraph {
+  display: inline-block;
+  text-align: justify;
+  margin: 0px;
+  padding: 20px;
+  width: 50%;
+}
